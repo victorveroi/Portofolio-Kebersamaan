@@ -1,9 +1,9 @@
 window.addEventListener("DOMContentLoaded", () => {
   const people = [
     { name: "Arsyad Wira Delovino", image: "img/arsyad.jpg", description: "Frontend Developer" },
-    { name: "M. Khaira Atthoriq", image: "img/BITBIT.jpg", description: "Data Entry" },
+    { name: "M. Khaira Atthoriq", image: "img/BITBIT.jpg", description: "*FAKE* ahh Data Entry" },
     { name: "Arya Akeno Manggala", image: "img/Keno.jpg", description: "Founder" },
-    { name: "Arya Putra Wirasena", image: "img/suloh.jpg", description: "Member" },
+    { name: "Arya Putra Wirasena", image: "img/suloh.jpg", description: "Gudang Foto" },
     { name: "Satrio Harrys Fitrah Dillo", image: "img/satrio.jpg", description: "Member" },
     { name: "M. Ricky Yaafi", image: "img/ricky.jpg", description: "Member" },
     { name: "Fachrendra Putra Mahardika", image: "img/paren.jpg", description: "Member" },
