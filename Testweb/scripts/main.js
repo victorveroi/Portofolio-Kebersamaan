@@ -6,8 +6,8 @@ window.addEventListener("DOMContentLoaded", () => {
     { name: "Arya Putra Wirasena", image: "img/suloh.jpg", description: "Member" },
     { name: "Satrio Harrys Fitrah Dillo", image: "img/satrio.jpg", description: "Member" },
     { name: "M. Ricky Yaafi", image: "img/ricky.jpg", description: "Member" },
-    { name: "Fachrendra Putra Mahardika", image: "img/MIKU.png", description: "Member" },
-    { name: "Ilham Bakti Pratama", image: "img/ilham.jpg", description: "Member" },
+    { name: "Fachrendra Putra Mahardika", image: "img/Fahren.jpg", description: "Member" },
+    { name: "Ilham Bakti Pratama", image: "img/Ilham.jpg", description: "Member" },
     { name: "Andika Rahmadian", image: "img/GODEX.jpeg", description: "Member" },
     { name: "Rajwa Kaka Meviansyah", image: "img/kaka.jpg", description: "Member" }
   ];
