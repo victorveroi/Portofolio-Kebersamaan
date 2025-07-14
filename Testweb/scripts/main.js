@@ -63,5 +63,5 @@ window.addEventListener("DOMContentLoaded", () => {
       left: currentIndex * window.innerWidth,
       behavior: "smooth"
     });
-  }, 7000);
+  }, 3000);
 });
