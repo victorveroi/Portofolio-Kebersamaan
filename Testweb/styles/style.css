@@ -25,11 +25,9 @@ html, body {
 .slide {
   flex: 0 0 100%;
   height: 100vh;
-  min-height: 100vh;
-  width: 100vw;
+  scroll-snap-align: start;
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat;
   position: relative;
 }
 
@@ -47,7 +45,7 @@ html, body {
 .slide-img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
 }
 
 .slide-content {
